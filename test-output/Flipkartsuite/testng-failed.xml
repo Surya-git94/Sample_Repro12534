@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Flipkartsuite]" guice-stage="DEVELOPMENT">
+  <parameter name="hhj" value="yjkog"/>
+  <test thread-count="5" name="FunctionalTest(failed)">
+    <classes>
+      <class name="org.book.pro.Flipkartcheck2windo">
+        <methods>
+          <include name="sd"/>
+        </methods>
+      </class> <!-- org.book.pro.Flipkartcheck2windo -->
+    </classes>
+  </test> <!-- FunctionalTest(failed) -->
+</suite> <!-- Failed suite [Flipkartsuite] -->
